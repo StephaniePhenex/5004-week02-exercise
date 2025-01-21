@@ -1,3 +1,3 @@
-# In Class exercise about Git
-This project is used for test usage of Github.
+# Try new features here.
+I create a new branch in Git.
 
